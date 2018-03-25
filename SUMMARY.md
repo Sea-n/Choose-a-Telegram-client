@@ -1,6 +1,6 @@
 # Summary
 
 * [首頁](README.md)
-* [Android](chapter1.md)
+* [Android](android.md)
 * [Windows](windows.md)
 
