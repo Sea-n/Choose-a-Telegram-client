@@ -1,3 +1,8 @@
-# My Awesome Book
+# Telegram 客戶端版本比較
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+可以點擊左側選單，直接跳至您的系統版本
+
+純屬個人意見，如有任何想法，歡迎至[此群組](https://t.me/TelegreatX)提出建議
+
+
+
